@@ -1,2 +1,2 @@
 # Introduction-To-Algorithms-Book
-Notes & Codes
+Notes and Codes
